@@ -1,7 +1,6 @@
 # Homework 
 
 ## Starting a homework
-ok
 Follow these steps when you begin a homework.
 
 * Fork repo.
@@ -25,6 +24,10 @@ Follow these steps when you begin a homework.
 ---
 ## Submitting a Homework
 
+- First create new branch
+    - `git branch homework`
+- Checkout to the new branch
+    - `git checkout homework`
 When you've finished your homework, all you have to do is get it online.  To do this, follow these steps:
  
 - Stage your changed files.
