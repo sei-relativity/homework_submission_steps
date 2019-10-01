@@ -19,7 +19,7 @@ Follow these steps when you begin a homework.
 
 ![clone](https://i.imgur.com/b6swER9.png)
 
-*  Do your homework.
+*  Do your homework...
 
 ---
 ## Submitting a Homework
