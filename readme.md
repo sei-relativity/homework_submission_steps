@@ -62,3 +62,6 @@ Follow these steps when you begin a homework.
 ![submit](https://i.imgur.com/huvbtb2.png)
 
 - Click `Create Pull Request` to submit your work!
+
+
+pass a way 
