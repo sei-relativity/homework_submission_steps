@@ -1,7 +1,5 @@
 # Homework
 
-AMS
-
 ## Starting a homework
 
 Follow these steps when you begin a homework.
@@ -12,7 +10,7 @@ Follow these steps when you begin a homework.
 
 - You'll know you're on the right page if it says "forked from" in the upper left corner.
 
-- MAKE SURE YOU ARE WORKING ON YOUR OWN FORK BY CHECKING FOR **YOUR NAME** IN THE TOP LEFT CORNER.
+- MAKE SURE YOU ARE WORKING ON YOUR OWN FORK BY CHECKING FOR shabams IN THE TOP LEFT CORNER.
 
 - Click the "clone button" in the top right to reveal the HTTPS key and copy it.
 
@@ -51,7 +49,7 @@ Follow these steps when you begin a homework.
 
 - Click on a new pull request.
   > **Pull requests** let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary. We will be using pull requests to submit homework.
-  ![pull](https://i.imgur.com/gPIUtoU.png)
+  > ![pull](https://i.imgur.com/gPIUtoU.png)
 - Make sure you are comparing the correct repos. The **base** _(first repo)_ should reference the homework assignment. The **head** _(second repo)_ should reference the work you completed.
   ![comparing repos](https://i.imgur.com/g8mdJML.png)
 
