@@ -28,7 +28,7 @@ Follow these steps when you begin a homework.
     - `git branch homework`
 - Checkout to the new branch
     - `git checkout homework`
-When you've finished your homework, all you have to do is get it online.  To do this, follow these steps:
+### When you've finished your homework, all you have to do is get it online.  To do this, follow these steps:
  
 - Stage your changed files.
     - `git add -A` 
