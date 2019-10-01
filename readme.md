@@ -1,7 +1,8 @@
 # Homework 
 
+
 ## Starting a homework
-Follow these steps when you begin a homework.
+Follow these stes when you begin a homework.
 
 * Fork repo.
 
